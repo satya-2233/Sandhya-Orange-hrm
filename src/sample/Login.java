@@ -11,6 +11,7 @@ public class Login
 		
 	//Launch the application
 	WebDriver driver = new FirefoxDriver();
+	System.out.println("sample project");
 	
 	}
 	
